@@ -1,0 +1,34 @@
+{
+  "elenco": [
+    {
+      "nome": "Marina",
+      "cognome": "Verdi",
+      "id": 1
+    },
+    {
+      "nome": "Lucia",
+      "cognome": "Rossi",
+      "id": 2
+    },
+    {
+      "nome": "Paolo",
+      "cognome": "Gialli",
+      "id": 3
+    },
+    {
+      "nome": "Stefano",
+      "cognome": "Bianchi",
+      "id": 4
+    },
+    {
+      "nome": "Alberto",
+      "cognome": "Neri",
+      "id": 5
+    },
+    {
+      "nome": "Marina",
+      "cognome": "Muntenita",
+      "id": 6
+    }
+  ]
+}
